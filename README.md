@@ -54,8 +54,7 @@ The environment was tested on Ubuntu 20.04.5 LTS. We trained DGMA on 2 NVidia RT
 
 Clone the code repository
 ```
-git clone https://github.com/george-kalitsios/DGMA.git
-
+git clone https://github.com/VCLdimitrop/DGMA
 ```
 
 Create a new environment from ```environment.yml```
